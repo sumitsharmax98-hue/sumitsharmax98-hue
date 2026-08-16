@@ -1,11 +1,7 @@
-body {
-    background-color: lightblue;
-}
+is
+        imap-send
+PS C:\Users\sumit\OneDrive\Desktop\git> git commit amend -m "final"
+error: pathspec 'amend' did not match any file(s) known to git
+PS C:\Users\sumit\OneDrive\Desktop\git>
+PS C:\Users\sumit\OneDrive\Desktop\git> 
 
-h1 {
-    color: black;
-}
-
-p {
-    font-size: 20px;
-}
